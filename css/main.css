@@ -1,0 +1,19 @@
+body{
+    font-family: "Poetsen One", sans-serif;
+}
+header{
+    background-image: url(../portfolio/Background/pexels-moose-photos-170195-1037992.jpg);
+    background-size:cover ;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.main-content h1{
+    font-size: 70px;
+}
+.main-content h1 + p{
+    font-size: 35px;
+}
+.newqoutes{
+    font-family: "Playfair Display", serif;
+    font-size: 25px;
+}
